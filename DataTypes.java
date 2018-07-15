@@ -1,14 +1,15 @@
 /****************************************
 *             							*
-*	MyName.java                       	*
+*	DataTypes.java                       	*
 *	Codecademy                          *
 *	Sunday July 15, 2018  			 	*
 *									 	*
-*****************************************/public class MyName { 
+*****************************************/
+public class DataTypes {
 	public static void main(String[] args) {
-		
-		System.out.println("C-Lion");
 
+		System.out.println(42);
+		
 	}
 
 }

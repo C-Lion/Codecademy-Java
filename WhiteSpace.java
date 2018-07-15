@@ -6,6 +6,13 @@
 *									 	*
 *****************************************/
 
+/****************************************
+*             							*
+*	WhiteSpace.java                    	*
+*	Codecademy                          *
+*	Sunday July 15, 2018  			 	*
+*									 	*
+*****************************************/
 public class WhiteSpace {
 	public static void main(String[] args) {
 		

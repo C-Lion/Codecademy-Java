@@ -29,5 +29,12 @@ public class IfElseIfTernary {
 
 			System.out.println("The boxing match hasn't started yet.");
 		}
+
+		//Ternary (no {} needed at all!!):ß
+		int fuelLevel = 3;
+
+		char canDrive = (fuelLevel > 0) ?'Y' : 'N';
+		System.out.println(canDrive);
+
 	}
 }
